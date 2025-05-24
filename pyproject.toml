@@ -1,0 +1,13 @@
+[project]
+name = "a2a-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "a2a-sdk>=0.2.3",
+    "click>=8.2.1",
+    "crewai>=0.120.1",
+    "devtools>=0.12.2",
+    "ollama>=0.4.8",
+]
